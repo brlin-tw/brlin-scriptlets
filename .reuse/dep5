@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name:  <https://gitlab.com/the-common/project-template/-/issues>
-Source: https://gitlab.com/the-common/project-template
+Upstream-Name: Issues · 林博仁 Buo-ren, Lin / brlin-scriptlets · GitLab <https://gitlab.com/brlin/brlin-scriptlets/-/issues>
+Source: https://gitlab.com/brlin/brlin-scriptlets
 
 Files:
  *README.md
